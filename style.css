@@ -1,0 +1,43 @@
+.navbar{
+    background-color: #000021;
+    color: #000000;
+}
+    .navbar a{
+        color: #000000;
+    }
+
+.section{
+    background-color: #f4eeff;
+    color: #000000;
+    padding: 5em 3em 5em 10em;
+}
+    .section h2{
+        text-align: center;
+        text-transform: uppercase;
+        margin-bottom: 1em;
+    }
+    
+    .section p{
+        text-align: justify;
+    }
+
+
+
+
+
+
+
+    .section{
+        background-color: #162148;
+        color: #FFFFFF;
+        padding: 5em 3em 5em 10em;
+    }
+        .section h2{
+            text-align: center;
+            text-transform: uppercase;
+            margin-bottom: 1em;
+        }
+        
+        .section p{
+            text-align: justify;
+        }
