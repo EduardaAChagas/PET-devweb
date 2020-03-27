@@ -1,23 +1,41 @@
 .btn{
     margin: 3px;
-    background-color: #c9b2ba;
+    background-color: #90caf9;
     color: #000000;
     border-radius: 50px;
     border-width: 6px;
     border-style:solid; 
-    border-color: #c9b2ba;
+    border-color: #90caf9;
 }
     .btn:hover{
-        background-color: #a094b7;
+        background-color: #c3fdff;
         margin: 3px;
         border-radius: 50px;
         border-width: 6px;
         border-style:solid; 
-        color: #ffffff;
-        border-color: #a094b7;
+        color: #5d99c6;
+        border-color: #c3fdff;
+    }
+.botao{
+        margin: 3px;
+        background-color: #90caf9;
+        color: #000000;
+        border-radius: 50px;
+        border-width: 6px;
+        border-style:solid; 
+        border-color: #90caf9;
+    }
+    .botao:hover{
+        background-color: #c3fdff;
+        margin: 3px;
+        border-radius: 50px;
+        border-width: 6px;
+        border-style:solid; 
+        color: #5d99c6;
+        border-color: #c3fdff;
     }
 .info{
-    background-color:#d1c4e9 ;
+    background-color: #9be7ff;
     padding: 7em 5em 10em 7em;
     text-align: center;
 }
@@ -34,113 +52,181 @@
     text-decoration: none;
     color: #000000;
     margin: 3px;
-    background-color: #836fa9;
+    background-color: #5d99c6;
     border-radius: 15px;
     border-width: 10px;
     border-style:solid; 
-    border-color: #836fa9;
+    border-color: #5d99c6;
 }
     .local:hover{
-        color: #ffffff;
-        background-color: #a094b7;
+        text-decoration: none;
+        color: #ffddc1;
+        text-decoration: underline;
+        background-color: #ef9a9a;
         margin: 3px;
         border-radius: 15px;
         border-width: 10px;
         border-style:solid; 
-        border-color: #a094b7;
+        border-color: #ef9a9a;
         cursor: pointer;
-    }
-    .localink{
-        text-decoration: none;
-        color: #000000;
-    }
-    .localink:hover{
-        text-decoration: none;
-        color: #d1c4e9;
     }
 .data{
-    margin: 3px;
-    background-color: #836fa9;
+    text-decoration: none;
     color: #000000;
+    margin: 3px;
+    background-color: #5d99c6;
     border-radius: 15px;
     border-width: 10px;
     border-style:solid; 
-    border-color: #836fa9;
+    border-color: #5d99c6;
 }
     .data:hover{
-        background-color: #a094b7;
+        text-decoration: none;
+        color: #ffddc1;
+        text-decoration: underline;
+        background-color: #ef9a9a;
         margin: 3px;
         border-radius: 15px;
         border-width: 10px;
         border-style:solid; 
-        color: #ffffff;
-        border-color: #a094b7;
+        border-color: #ef9a9a;
         cursor: pointer;
-    }
-    .linkdata{
-        text-decoration: none;
-        color: #000000;
-    }
-    .linkdata:hover{
-        text-decoration: none;
-        color: #d1c4e9;
     }
 .sobre{
-    margin: 3px;
-    background-color: #836fa9;
+    text-decoration: none;
     color: #000000;
+    margin: 3px;
+    background-color: #5d99c6;
     border-radius: 15px;
     border-width: 10px;
     border-style:solid; 
-    border-color: #836fa9;
+    border-color: #5d99c6;
 }
     .sobre:hover{
-        background-color: #a094b7;
+        text-decoration: none;
+        color: #ffddc1;
+        text-decoration: underline;
+        background-color: #ef9a9a;
         margin: 3px;
         border-radius: 15px;
         border-width: 10px;
         border-style:solid; 
-        color: #ffffff;
-        border-color: #a094b7;
+        border-color: #ef9a9a;
         cursor: pointer;
     }
-    .sobrelink{
-        text-decoration: none;
-        color: #000000;
-    }
-    .sobrelink:hover{
-        text-decoration: none;
-        color: #d1c4e9;
-    }
 .forms{
-    margin: 3px;
-    background-color: #836fa9;
+    text-decoration: none;
     color: #000000;
+    margin: 3px;
+    background-color: #5d99c6;
     border-radius: 15px;
     border-width: 10px;
     border-style:solid; 
-    border-color: #836fa9;
+    border-color: #5d99c6;
 }
-    .forms:hover{    
-        background-color: #a094b7;
+    .forms:hover{
+        text-decoration: none;
+        color: #ffddc1;
+        text-decoration: underline;
+        background-color: #ef9a9a;
         margin: 3px;
         border-radius: 15px;
         border-width: 10px;
         border-style:solid; 
-        color: #ffffff;
-        border-color: #a094b7;
-        cursor: pointer;
+        border-color: #ef9a9a;
+        cursor: pointer;    
     }
-    .formslink{
-        text-decoration: none;
-        color: #000000;
-    }
-    .formslink:hover{
-        text-decoration: none;
-        color: #d1c4e9;
-    }
-
 .section-alt{
-    background-color: #ffddc1;
+    background-color: #ffcccb;
     text-align: center;
+}
+.vg{
+    margin: 30px;
+    border-radius: 20px;
+    background-color: #ef9a9a;
+    padding: 20px;
+    text-align: center;
+}
+.pwyc{
+    margin:30px;
+    border-radius: 20px;
+    background-color: #ef9a9a;
+    padding: 20px;
+    text-align: center;
+}
+.mptlpc{
+    margin:30;
+    border-radius: 20px;
+    background-color: #ef9a9a;
+    padding: 20px;
+    text-align: center;
+}
+.ldr{
+    text-align: left;
+}
+.lg{
+    text-align: left;
+}
+.grimes{
+    text-align: left;
+}
+.bhome{
+    text-align: center;
+    margin: 15px;
+    background-color: #c9b2ba;
+    color: #000000;
+    border-radius: 50px;
+    border-width: 6px;
+    border-style:solid; 
+    border-color: #c9b2ba;
+    padding:10px;
+}
+    .bhome:hover{
+        text-decoration: none;
+        text-align: center;
+        text-decoration: underline;
+        background-color: #a094b7;
+        margin: 15px;
+        border-radius: 50px;
+        border-width: 6px;
+        border-style:solid; 
+        color: #d1c4e9;
+        border-color: #a094b7; 
+        cursor:pointer;
+        padding: 10px;
+    }
+.futer{
+    text-align: center;
+    background-color: #c9b2ba;
+    padding: 30px;
+    text-decoration: none;
+    color: #000000;
+}
+.contact{
+    text-align: center;
+}
+.elon{
+    float: left;
+    width: 170px;
+    height: 170px;
+    margin: 5px 15px;
+}
+.evento{
+    text-align: center;
+}
+body{
+
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.all{
+    padding: 50px;
+    background-color: #ffcccb;
+}
+supalonely
+.radiogaga{
+    background-color: #9be7ff;
+}
+.custom-control{
+    background-color: #9be7ff;
 }
